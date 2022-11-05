@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table class="Tabla1">
+
+        <tr>
+      
+          <td>2</td>
+      
+          <td>4</td>
+      
+          <td>6</td>
+      
+        </tr>
+      
+        <tr>
+      
+          <td>8</td>
+      
+          <td>10</td>
+      
+          <td>12</td>
+      
+        </tr>
+      
+      </table>
+
+
+<br>
+
+    <table class = "Tabla2">
+        <tr>
+
+            <th>Hoy</th>
+        
+            <th>Mañana</th>
+        
+            <th>Lunes</th>
+        
+          </tr>
+        
+          <tr>
+        
+            <td>765"</td>
+        
+            <td>765"</td>
+        
+            <td>"yut"</td>
+        
+          </tr>
+        
+          <tr>
+        
+            <td>"ty</td>
+        
+            <td>"uyt</td>
+        
+            <td>"yt</td>
+        
+          </tr>
+        
+          <tr>
+        
+            <td>"yt</td>
+        
+            <td>yt"</td>
+        
+            <td>ytu"</td>
+        
+          </tr>
+    </table>
+
+<br>
+
+    <table class="Tabla3">
+        <tr>
+            <th>Aprendiz</th>
+            <th>Ficha</th>  
+        </tr>
+        <tr>
+            <td>Fabio</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>Camilo</td>
+            <td>123</td>
+        </tr>
+        <tr>
+            <td>José</td>
+            <td>1234</td>
+        </tr>
+    </table>
+
+    <table class="Tabla3">
+      <tr>
+          <th>juego</th>
+          <th>código</th>  
+      </tr>
+      <tr>
+          <td>futbol</td>
+          <td>125</td>
+      </tr>
+      <tr>
+          <td>Play</td>
+          <td>109</td>
+      </tr>
+      <tr>
+          <td>Ball</td>
+          <td>789</td>
+      </tr>
+    </table>
+</body>
+</html>
